@@ -1,0 +1,29 @@
+_repo: Hamahakki-b-ja-muita-kertomuksia_74574
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Talvio, Maila
+    alias: Mikkola, Maila Winter
+    birthdate: 1871
+    deathdate: 1951
+    gutenberg_agent_id: '39128'
+    url: http://www.gutenberg.org/2009/agents/39128
+    wikipedia: https://fi.wikipedia.org/wiki/Maila_Talvio
+description: ''
+gutenberg_issued: '2024-10-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74574'
+language: fi
+pgterms:marc905: 20240617071536talvio
+pgterms:marc906: '1912'
+pgterms:marc907: FI
+production_note: Tapio Riikonen
+publication_note: '  $aPorvoo :$bWSOY, $c1912.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Hämähäkki : $b ja muita kertomuksia'
+url: http://www.gutenberg.org/ebooks/74574
